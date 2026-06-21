@@ -100,18 +100,6 @@ This project helped strengthen knowledge in:
 
 ---
 
-## Author
-
-### Abhishek Kumar Sharma
-
-Computer Science Engineer
-
-* AWS Cloud Practitioner Certified
-* IBM Cybersecurity Certified
-* Advanced SQL Certified
-* Frontend Developer Certified
-
-GitHub: https://github.com/121198a
 
 ---
 
